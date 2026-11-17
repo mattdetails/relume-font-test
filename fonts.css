@@ -1,1 +1,2 @@
-@font-face{font-family:"Bungee Test";src:url("https://cdn.jsdelivr.net/gh/mattdetails/relume-font-test@v1/fonts/Bungee-Regular.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
+@font-face{font-family:"Bungee Test";src:url("https://cdn.jsdelivr.net/gh/mattdetails/relume-font-test@v2/fonts/Bungee-Regular.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
+:root,html body{--font-family-heading:"Bungee Test",system-ui,sans-serif}
